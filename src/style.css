@@ -1,0 +1,15 @@
+.App{
+    width: 500px;
+    margin:2rem auto;
+}
+input{
+    border:1px solid #ccc;
+    border-radius:5px;
+    padding:1rem .75rem;
+    width:100%;
+}
+pre{
+font-size: 22px;
+color: #333;
+font-weight: bold;
+}
